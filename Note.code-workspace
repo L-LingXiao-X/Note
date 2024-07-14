@@ -11,8 +11,6 @@
 	],
 	"settings": {
 		"java.project.explorer.showNonJavaResources": false,
-		"java.project.sourcePaths": [
-			"46-51.array"
-		]
+		"java.project.referencedLibraries": []
 	}
 }
