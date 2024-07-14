@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "Note",
+			"path": "."
+		},
+		{
+			"name": "summer_vacation_hard_camping_plan",
+			"path": "D:/code/summer_vacation_hard_camping_plan"
+		}
+	],
+	"settings": {
+		"java.project.explorer.showNonJavaResources": false,
+		"java.project.sourcePaths": [
+			"46-51.array"
+		]
+	}
+}
