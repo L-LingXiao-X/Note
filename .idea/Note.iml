@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../note_code">
+      <sourceFolder url="file://$MODULE_DIR$/../note_code/38-45.app_process/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../note_code/46-51.array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../note_code/53-59.method/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

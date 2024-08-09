@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA/38-45.app_process_pack/38-45.app_process_pack.iml" filepath="$PROJECT_DIR$/JAVA/38-45.app_process_pack/38-45.app_process_pack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/46-51.array_pack/46-51.array_pack.iml" filepath="$PROJECT_DIR$/JAVA/46-51.array_pack/46-51.array_pack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Note.iml" filepath="$PROJECT_DIR$/.idea/Note.iml" />
+    </modules>
+  </component>
+</project>
