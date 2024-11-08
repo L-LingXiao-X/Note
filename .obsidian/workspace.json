@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "f952750c8f827b65",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3ce1610540f5ff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428dfd0b9b85d2b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.专题/2024-8-19.笔记本电脑4700/2024-8-19.笔记本电脑4700.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cd7b103b698af8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e48a3c43d1f702a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51cd9d9b3ba32006",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a748b9f199dea50e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8adee48f9d3a92b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "621f25b17fa56370",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef17065f4ea4e24e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca2fa3603d9f8715",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.专题/2024-8-19.笔记本电脑4700/2024-8-19.笔记本电脑4700.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01fff3437f7449c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.专题/2024-8-19.笔记本电脑4700/2024-8-19.笔记本电脑4700.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56303bcf57dc52bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5e116a9d59d8f6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.专题/2024-8-19.笔记本电脑4700/2024-8-19.笔记本电脑4700.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "428dfd0b9b85d2b4",
+  "lastOpenFiles": [
+    "1.专题/2024-8-19.笔记本电脑4700/[【荣耀荣耀笔记本X16.md",
+    "1.专题/2024-8-19.笔记本电脑4700/2024-8-19.笔记本电脑4700.md",
+    "1.专题/2024-8-19.笔记本电脑4700/lib/Pasted image 20240819125748.png",
+    "1.专题/2024-8-19.笔记本电脑4700/lib/Pasted image 20240819125031.png",
+    "1.专题/2024-8-19.笔记本电脑4700/lib/Pasted image 20240819125004.png",
+    "1.专题/2024-8-19.笔记本电脑4700/lib/Pasted image 20240819124311.png",
+    "1.专题/2024-8-19.笔记本电脑4700/lib/Pasted image 20240819124223.png",
+    "1.专题/2024-8-19.笔记本电脑4700/lib/Pasted image 20240819124148.png",
+    "1.专题/2024-8-19.笔记本电脑4700/lib",
+    "1.专题/2024-8-19.笔记本电脑4700/未命名 1.md",
+    "1.专题/2024-8-19.笔记本电脑4700",
+    "JAVA/53-59.method_pack/53-59.method.md",
+    "3.归档",
+    "2.资料",
+    "1.专题",
+    "README.md"
+  ]
+}
